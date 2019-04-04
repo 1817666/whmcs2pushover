@@ -2,6 +2,14 @@
 
 This module will notify you each time a client signs up, pays an invoice or opens a support ticket in WHMCS.
 
+## Features
+- New Clients
+- Paid Invoices
+- New Support Ticket
+- New Support Ticket Update
+- New Cancellation Request
+- Administrator Login Alerts
+
 ## Installation
 
 To install you need to download the files within the repo and upload them to;
